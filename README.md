@@ -1,2 +1,4 @@
 # POE-CAPEHOPE
-WEDE5020 Part 1- CapeHope Pet Adoption Website
+Name: Liyema Mvalo
+Student number: st10532901
+Date: 14 August 2026
