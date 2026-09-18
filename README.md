@@ -17,3 +17,23 @@ index, about, adopt, enquiry, contact
 
 ## Styling
 style.css 80+ lines, Reset margin0 padding0, Flexbox header, Grid 1fr 1fr 1fr, Media 1024px and 768px, Colors #4CAF50 and #2c7a7b, rem and % units
+
+## Part 2 - Responsive Images & Accessibility (3.3 & 3.4)
+
+Fixed adopt.html lines 25,30,35 - Max, Luna, Charlie:
+- src using Unsplash CDN with w=400&h=400&fit=crop&q=80 for performance
+- alt="Max - Friendly 2-year-old Labrador available for adoption" for WCAG
+- style="width:100%; height:auto; border-radius:8px;" for fluid responsive
+- loading="lazy"
+Verified: Desktop 1920px 3 columns, Tablet 768px 2 columns, Mobile 375px 1 column
+Live: https://st10532901.github.io/POE-CAPEHOPE/adopt.html
+
+## References
+- Unsplash.com - Pet images free license
+- MDN Web Docs - Responsive images width 100% height auto
+- W3C WCAG 2.1 - Alt text guidelines
+- W3Schools - CSS Grid and Media Queries
+- GitHub Pages Docs
+
+## Submission
+Repo: https://github.com/st10532901/POE-CAPEHOPE
